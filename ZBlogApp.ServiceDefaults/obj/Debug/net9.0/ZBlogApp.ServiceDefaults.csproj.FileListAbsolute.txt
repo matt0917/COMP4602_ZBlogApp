@@ -1,0 +1,13 @@
+D:\Projects\Git\COMP4602_NET_Advanced_Web_App_Dev\ZBlogApp\ZBlogApp.ServiceDefaults\bin\Debug\net9.0\ZBlogApp.ServiceDefaults.deps.json
+D:\Projects\Git\COMP4602_NET_Advanced_Web_App_Dev\ZBlogApp\ZBlogApp.ServiceDefaults\bin\Debug\net9.0\ZBlogApp.ServiceDefaults.dll
+D:\Projects\Git\COMP4602_NET_Advanced_Web_App_Dev\ZBlogApp\ZBlogApp.ServiceDefaults\bin\Debug\net9.0\ZBlogApp.ServiceDefaults.pdb
+D:\Projects\Git\COMP4602_NET_Advanced_Web_App_Dev\ZBlogApp\ZBlogApp.ServiceDefaults\obj\Debug\net9.0\ZBlogApp.ServiceDefaults.csproj.AssemblyReference.cache
+D:\Projects\Git\COMP4602_NET_Advanced_Web_App_Dev\ZBlogApp\ZBlogApp.ServiceDefaults\obj\Debug\net9.0\ZBlogApp.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Git\COMP4602_NET_Advanced_Web_App_Dev\ZBlogApp\ZBlogApp.ServiceDefaults\obj\Debug\net9.0\ZBlogApp.ServiceDefaults.AssemblyInfoInputs.cache
+D:\Projects\Git\COMP4602_NET_Advanced_Web_App_Dev\ZBlogApp\ZBlogApp.ServiceDefaults\obj\Debug\net9.0\ZBlogApp.ServiceDefaults.AssemblyInfo.cs
+D:\Projects\Git\COMP4602_NET_Advanced_Web_App_Dev\ZBlogApp\ZBlogApp.ServiceDefaults\obj\Debug\net9.0\ZBlogApp.ServiceDefaults.csproj.CoreCompileInputs.cache
+D:\Projects\Git\COMP4602_NET_Advanced_Web_App_Dev\ZBlogApp\ZBlogApp.ServiceDefaults\obj\Debug\net9.0\ZBlogApp.ServiceDefaults.sourcelink.json
+D:\Projects\Git\COMP4602_NET_Advanced_Web_App_Dev\ZBlogApp\ZBlogApp.ServiceDefaults\obj\Debug\net9.0\ZBlogApp.ServiceDefaults.dll
+D:\Projects\Git\COMP4602_NET_Advanced_Web_App_Dev\ZBlogApp\ZBlogApp.ServiceDefaults\obj\Debug\net9.0\refint\ZBlogApp.ServiceDefaults.dll
+D:\Projects\Git\COMP4602_NET_Advanced_Web_App_Dev\ZBlogApp\ZBlogApp.ServiceDefaults\obj\Debug\net9.0\ZBlogApp.ServiceDefaults.pdb
+D:\Projects\Git\COMP4602_NET_Advanced_Web_App_Dev\ZBlogApp\ZBlogApp.ServiceDefaults\obj\Debug\net9.0\ref\ZBlogApp.ServiceDefaults.dll

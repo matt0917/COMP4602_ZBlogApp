@@ -1,0 +1,1825 @@
+{
+  "Version": 1,
+  "Hash": "5vBSMF00KTJszrlBj2J2PPcB8CQD99z47SkMnxTYdoQ=",
+  "Source": "ZBlogApp.Web",
+  "BasePath": "_content/ZBlogApp.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ZBlogApp.Web\\wwwroot",
+      "Source": "ZBlogApp.Web",
+      "ContentRoot": "D:\\Projects\\Git\\COMP4602_NET_Advanced_Web_App_Dev\\ZBlogApp\\ZBlogApp.Web\\wwwroot\\",
+      "BasePath": "_content/ZBlogApp.Web",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Projects\\Git\\COMP4602_NET_Advanced_Web_App_Dev\\ZBlogApp\\ZBlogApp.Web\\obj\\Debug\\net9.0\\compressed\\81cif9cz6b-2d43d64ilg.gz",
+      "SourceId": "ZBlogApp.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\Projects\\Git\\COMP4602_NET_Advanced_Web_App_Dev\\ZBlogApp\\ZBlogApp.Web\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/ZBlogApp.Web",
+      "RelativePath": "ZBlogApp.Web#[.{fingerprint=2d43d64ilg}]!.bundle.scp.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Projects\\Git\\COMP4602_NET_Advanced_Web_App_Dev\\ZBlogApp\\ZBlogApp.Web\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\ZBlogApp.Web.bundle.scp.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "f2jlj4wzxb",
+      "Integrity": "x5biAAxfh1N+9s5paKXixg+GkLXsUViVh1whXF+6zIY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Projects\\Git\\COMP4602_NET_Advanced_Web_App_Dev\\ZBlogApp\\ZBlogApp.Web\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\ZBlogApp.Web.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\Projects\\Git\\COMP4602_NET_Advanced_Web_App_Dev\\ZBlogApp\\ZBlogApp.Web\\obj\\Debug\\net9.0\\compressed\\l0905igb9r-2d43d64ilg.gz",
+      "SourceId": "ZBlogApp.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\Projects\\Git\\COMP4602_NET_Advanced_Web_App_Dev\\ZBlogApp\\ZBlogApp.Web\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/ZBlogApp.Web",
+      "RelativePath": "ZBlogApp.Web#[.{fingerprint=2d43d64ilg}]?.styles.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Projects\\Git\\COMP4602_NET_Advanced_Web_App_Dev\\ZBlogApp\\ZBlogApp.Web\\obj\\Debug\\net9.0\\scopedcss\\bundle\\ZBlogApp.Web.styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "f2jlj4wzxb",
+      "Integrity": "x5biAAxfh1N+9s5paKXixg+GkLXsUViVh1whXF+6zIY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Projects\\Git\\COMP4602_NET_Advanced_Web_App_Dev\\ZBlogApp\\ZBlogApp.Web\\obj\\Debug\\net9.0\\scopedcss\\bundle\\ZBlogApp.Web.styles.css"
+    },
+    {
+      "Identity": "D:\\Projects\\Git\\COMP4602_NET_Advanced_Web_App_Dev\\ZBlogApp\\ZBlogApp.Web\\obj\\Debug\\net9.0\\compressed\\pfinxd11vg-rzb6rj8twb.gz",
+      "SourceId": "ZBlogApp.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\Git\\COMP4602_NET_Advanced_Web_App_Dev\\ZBlogApp\\ZBlogApp.Web\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/ZBlogApp.Web",
+      "RelativePath": "app#[.{fingerprint=rzb6rj8twb}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Projects\\Git\\COMP4602_NET_Advanced_Web_App_Dev\\ZBlogApp\\ZBlogApp.Web\\wwwroot\\app.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "lcpg7ruglc",
+      "Integrity": "q4jkG7Nauf/jSrs7Ck3PeSzOCumK9awimpUZp4gD+7Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Projects\\Git\\COMP4602_NET_Advanced_Web_App_Dev\\ZBlogApp\\ZBlogApp.Web\\wwwroot\\app.css"
+    },
+    {
+      "Identity": "D:\\Projects\\Git\\COMP4602_NET_Advanced_Web_App_Dev\\ZBlogApp\\ZBlogApp.Web\\obj\\Debug\\net9.0\\compressed\\sjic346b36-6gzpyzhau4.gz",
+      "SourceId": "ZBlogApp.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\Git\\COMP4602_NET_Advanced_Web_App_Dev\\ZBlogApp\\ZBlogApp.Web\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/ZBlogApp.Web",
+      "RelativePath": "bootstrap/bootstrap.min#[.{fingerprint=6gzpyzhau4}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Projects\\Git\\COMP4602_NET_Advanced_Web_App_Dev\\ZBlogApp\\ZBlogApp.Web\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "7l51xal3e9",
+      "Integrity": "dfRdV3FWJNHUyN/ZTK8eRHslFtdOjQxpi1BEcWXtMR8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Projects\\Git\\COMP4602_NET_Advanced_Web_App_Dev\\ZBlogApp\\ZBlogApp.Web\\wwwroot\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Identity": "D:\\Projects\\Git\\COMP4602_NET_Advanced_Web_App_Dev\\ZBlogApp\\ZBlogApp.Web\\obj\\Debug\\net9.0\\compressed\\ueb72jzyfi-8inm30yfxf.gz",
+      "SourceId": "ZBlogApp.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\Git\\COMP4602_NET_Advanced_Web_App_Dev\\ZBlogApp\\ZBlogApp.Web\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/ZBlogApp.Web",
+      "RelativePath": "bootstrap/bootstrap.min.css#[.{fingerprint=8inm30yfxf}]?.map.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Projects\\Git\\COMP4602_NET_Advanced_Web_App_Dev\\ZBlogApp\\ZBlogApp.Web\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "m532s4naxw",
+      "Integrity": "epiz+IkftKdCVrNwM3M3b4/Co3mxoqDpjOfMrHfv/7E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Projects\\Git\\COMP4602_NET_Advanced_Web_App_Dev\\ZBlogApp\\ZBlogApp.Web\\wwwroot\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "D:\\Projects\\Git\\COMP4602_NET_Advanced_Web_App_Dev\\ZBlogApp\\ZBlogApp.Web\\obj\\Debug\\net9.0\\scopedcss\\bundle\\ZBlogApp.Web.styles.css",
+      "SourceId": "ZBlogApp.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\Projects\\Git\\COMP4602_NET_Advanced_Web_App_Dev\\ZBlogApp\\ZBlogApp.Web\\obj\\Debug\\net9.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/ZBlogApp.Web",
+      "RelativePath": "ZBlogApp.Web#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "2d43d64ilg",
+      "Integrity": "1v0wWoZxo112FXE3JQeQqY0q0Zx6VD3++cwX5SS4Egg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Projects\\Git\\COMP4602_NET_Advanced_Web_App_Dev\\ZBlogApp\\ZBlogApp.Web\\obj\\Debug\\net9.0\\scopedcss\\bundle\\ZBlogApp.Web.styles.css"
+    },
+    {
+      "Identity": "D:\\Projects\\Git\\COMP4602_NET_Advanced_Web_App_Dev\\ZBlogApp\\ZBlogApp.Web\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\ZBlogApp.Web.bundle.scp.css",
+      "SourceId": "ZBlogApp.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\Projects\\Git\\COMP4602_NET_Advanced_Web_App_Dev\\ZBlogApp\\ZBlogApp.Web\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/ZBlogApp.Web",
+      "RelativePath": "ZBlogApp.Web#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "2d43d64ilg",
+      "Integrity": "1v0wWoZxo112FXE3JQeQqY0q0Zx6VD3++cwX5SS4Egg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Projects\\Git\\COMP4602_NET_Advanced_Web_App_Dev\\ZBlogApp\\ZBlogApp.Web\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\ZBlogApp.Web.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\Projects\\Git\\COMP4602_NET_Advanced_Web_App_Dev\\ZBlogApp\\ZBlogApp.Web\\wwwroot\\app.css",
+      "SourceId": "ZBlogApp.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\Git\\COMP4602_NET_Advanced_Web_App_Dev\\ZBlogApp\\ZBlogApp.Web\\wwwroot\\",
+      "BasePath": "_content/ZBlogApp.Web",
+      "RelativePath": "app#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rzb6rj8twb",
+      "Integrity": "yZYbPPX7cELsQDOeA2+lRwnG+IYDlhjR1VpRQotXSlE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.css"
+    },
+    {
+      "Identity": "D:\\Projects\\Git\\COMP4602_NET_Advanced_Web_App_Dev\\ZBlogApp\\ZBlogApp.Web\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "SourceId": "ZBlogApp.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\Git\\COMP4602_NET_Advanced_Web_App_Dev\\ZBlogApp\\ZBlogApp.Web\\wwwroot\\",
+      "BasePath": "_content/ZBlogApp.Web",
+      "RelativePath": "bootstrap/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6gzpyzhau4",
+      "Integrity": "SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Identity": "D:\\Projects\\Git\\COMP4602_NET_Advanced_Web_App_Dev\\ZBlogApp\\ZBlogApp.Web\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "SourceId": "ZBlogApp.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\Git\\COMP4602_NET_Advanced_Web_App_Dev\\ZBlogApp\\ZBlogApp.Web\\wwwroot\\",
+      "BasePath": "_content/ZBlogApp.Web",
+      "RelativePath": "bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8inm30yfxf",
+      "Integrity": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "D:\\Projects\\Git\\COMP4602_NET_Advanced_Web_App_Dev\\ZBlogApp\\ZBlogApp.Web\\wwwroot\\favicon.png",
+      "SourceId": "ZBlogApp.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\Git\\COMP4602_NET_Advanced_Web_App_Dev\\ZBlogApp\\ZBlogApp.Web\\wwwroot\\",
+      "BasePath": "_content/ZBlogApp.Web",
+      "RelativePath": "favicon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ifv42okdf2",
+      "Integrity": "4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "app.css",
+      "AssetFile": "D:\\Projects\\Git\\COMP4602_NET_Advanced_Web_App_Dev\\ZBlogApp\\ZBlogApp.Web\\obj\\Debug\\net9.0\\compressed\\pfinxd11vg-rzb6rj8twb.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000685400960"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1458"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q4jkG7Nauf/jSrs7Ck3PeSzOCumK9awimpUZp4gD+7Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 09:53:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"yZYbPPX7cELsQDOeA2+lRwnG+IYDlhjR1VpRQotXSlE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yZYbPPX7cELsQDOeA2+lRwnG+IYDlhjR1VpRQotXSlE="
+        }
+      ]
+    },
+    {
+      "Route": "app.css",
+      "AssetFile": "D:\\Projects\\Git\\COMP4602_NET_Advanced_Web_App_Dev\\ZBlogApp\\ZBlogApp.Web\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2514"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yZYbPPX7cELsQDOeA2+lRwnG+IYDlhjR1VpRQotXSlE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 09:53:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yZYbPPX7cELsQDOeA2+lRwnG+IYDlhjR1VpRQotXSlE="
+        }
+      ]
+    },
+    {
+      "Route": "app.css.gz",
+      "AssetFile": "D:\\Projects\\Git\\COMP4602_NET_Advanced_Web_App_Dev\\ZBlogApp\\ZBlogApp.Web\\obj\\Debug\\net9.0\\compressed\\pfinxd11vg-rzb6rj8twb.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1458"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q4jkG7Nauf/jSrs7Ck3PeSzOCumK9awimpUZp4gD+7Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 09:53:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-q4jkG7Nauf/jSrs7Ck3PeSzOCumK9awimpUZp4gD+7Q="
+        }
+      ]
+    },
+    {
+      "Route": "app.rzb6rj8twb.css",
+      "AssetFile": "D:\\Projects\\Git\\COMP4602_NET_Advanced_Web_App_Dev\\ZBlogApp\\ZBlogApp.Web\\obj\\Debug\\net9.0\\compressed\\pfinxd11vg-rzb6rj8twb.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000685400960"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1458"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q4jkG7Nauf/jSrs7Ck3PeSzOCumK9awimpUZp4gD+7Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 09:53:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"yZYbPPX7cELsQDOeA2+lRwnG+IYDlhjR1VpRQotXSlE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rzb6rj8twb"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yZYbPPX7cELsQDOeA2+lRwnG+IYDlhjR1VpRQotXSlE="
+        }
+      ]
+    },
+    {
+      "Route": "app.rzb6rj8twb.css",
+      "AssetFile": "D:\\Projects\\Git\\COMP4602_NET_Advanced_Web_App_Dev\\ZBlogApp\\ZBlogApp.Web\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2514"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yZYbPPX7cELsQDOeA2+lRwnG+IYDlhjR1VpRQotXSlE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 09:53:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rzb6rj8twb"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yZYbPPX7cELsQDOeA2+lRwnG+IYDlhjR1VpRQotXSlE="
+        }
+      ]
+    },
+    {
+      "Route": "app.rzb6rj8twb.css.gz",
+      "AssetFile": "D:\\Projects\\Git\\COMP4602_NET_Advanced_Web_App_Dev\\ZBlogApp\\ZBlogApp.Web\\obj\\Debug\\net9.0\\compressed\\pfinxd11vg-rzb6rj8twb.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1458"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q4jkG7Nauf/jSrs7Ck3PeSzOCumK9awimpUZp4gD+7Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 09:53:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rzb6rj8twb"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-q4jkG7Nauf/jSrs7Ck3PeSzOCumK9awimpUZp4gD+7Q="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.6gzpyzhau4.css",
+      "AssetFile": "D:\\Projects\\Git\\COMP4602_NET_Advanced_Web_App_Dev\\ZBlogApp\\ZBlogApp.Web\\obj\\Debug\\net9.0\\compressed\\sjic346b36-6gzpyzhau4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000041912905"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23858"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dfRdV3FWJNHUyN/ZTK8eRHslFtdOjQxpi1BEcWXtMR8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 09:53:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6gzpyzhau4"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.6gzpyzhau4.css",
+      "AssetFile": "D:\\Projects\\Git\\COMP4602_NET_Advanced_Web_App_Dev\\ZBlogApp\\ZBlogApp.Web\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 09:53:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6gzpyzhau4"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.6gzpyzhau4.css.gz",
+      "AssetFile": "D:\\Projects\\Git\\COMP4602_NET_Advanced_Web_App_Dev\\ZBlogApp\\ZBlogApp.Web\\obj\\Debug\\net9.0\\compressed\\sjic346b36-6gzpyzhau4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23858"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dfRdV3FWJNHUyN/ZTK8eRHslFtdOjQxpi1BEcWXtMR8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 09:53:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6gzpyzhau4"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dfRdV3FWJNHUyN/ZTK8eRHslFtdOjQxpi1BEcWXtMR8="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css",
+      "AssetFile": "D:\\Projects\\Git\\COMP4602_NET_Advanced_Web_App_Dev\\ZBlogApp\\ZBlogApp.Web\\obj\\Debug\\net9.0\\compressed\\sjic346b36-6gzpyzhau4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000041912905"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23858"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dfRdV3FWJNHUyN/ZTK8eRHslFtdOjQxpi1BEcWXtMR8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 09:53:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css",
+      "AssetFile": "D:\\Projects\\Git\\COMP4602_NET_Advanced_Web_App_Dev\\ZBlogApp\\ZBlogApp.Web\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 09:53:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "D:\\Projects\\Git\\COMP4602_NET_Advanced_Web_App_Dev\\ZBlogApp\\ZBlogApp.Web\\obj\\Debug\\net9.0\\compressed\\ueb72jzyfi-8inm30yfxf.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000013397104"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74642"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"epiz+IkftKdCVrNwM3M3b4/Co3mxoqDpjOfMrHfv/7E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 09:53:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "D:\\Projects\\Git\\COMP4602_NET_Advanced_Web_App_Dev\\ZBlogApp\\ZBlogApp.Web\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 09:53:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.8inm30yfxf.map.gz",
+      "AssetFile": "D:\\Projects\\Git\\COMP4602_NET_Advanced_Web_App_Dev\\ZBlogApp\\ZBlogApp.Web\\obj\\Debug\\net9.0\\compressed\\ueb72jzyfi-8inm30yfxf.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74642"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"epiz+IkftKdCVrNwM3M3b4/Co3mxoqDpjOfMrHfv/7E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 09:53:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css.map.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-epiz+IkftKdCVrNwM3M3b4/Co3mxoqDpjOfMrHfv/7E="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.gz",
+      "AssetFile": "D:\\Projects\\Git\\COMP4602_NET_Advanced_Web_App_Dev\\ZBlogApp\\ZBlogApp.Web\\obj\\Debug\\net9.0\\compressed\\sjic346b36-6gzpyzhau4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23858"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dfRdV3FWJNHUyN/ZTK8eRHslFtdOjQxpi1BEcWXtMR8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 09:53:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dfRdV3FWJNHUyN/ZTK8eRHslFtdOjQxpi1BEcWXtMR8="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.map",
+      "AssetFile": "D:\\Projects\\Git\\COMP4602_NET_Advanced_Web_App_Dev\\ZBlogApp\\ZBlogApp.Web\\obj\\Debug\\net9.0\\compressed\\ueb72jzyfi-8inm30yfxf.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000013397104"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74642"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"epiz+IkftKdCVrNwM3M3b4/Co3mxoqDpjOfMrHfv/7E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 09:53:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.map",
+      "AssetFile": "D:\\Projects\\Git\\COMP4602_NET_Advanced_Web_App_Dev\\ZBlogApp\\ZBlogApp.Web\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 09:53:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.map.gz",
+      "AssetFile": "D:\\Projects\\Git\\COMP4602_NET_Advanced_Web_App_Dev\\ZBlogApp\\ZBlogApp.Web\\obj\\Debug\\net9.0\\compressed\\ueb72jzyfi-8inm30yfxf.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74642"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"epiz+IkftKdCVrNwM3M3b4/Co3mxoqDpjOfMrHfv/7E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 09:53:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-epiz+IkftKdCVrNwM3M3b4/Co3mxoqDpjOfMrHfv/7E="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ifv42okdf2.png",
+      "AssetFile": "D:\\Projects\\Git\\COMP4602_NET_Advanced_Web_App_Dev\\ZBlogApp\\ZBlogApp.Web\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 09:53:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ifv42okdf2"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.png",
+      "AssetFile": "D:\\Projects\\Git\\COMP4602_NET_Advanced_Web_App_Dev\\ZBlogApp\\ZBlogApp.Web\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 09:53:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    },
+    {
+      "Route": "ZBlogApp.Web.2d43d64ilg.bundle.scp.css",
+      "AssetFile": "D:\\Projects\\Git\\COMP4602_NET_Advanced_Web_App_Dev\\ZBlogApp\\ZBlogApp.Web\\obj\\Debug\\net9.0\\compressed\\81cif9cz6b-2d43d64ilg.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000574712644"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1739"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x5biAAxfh1N+9s5paKXixg+GkLXsUViVh1whXF+6zIY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 18:59:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"1v0wWoZxo112FXE3JQeQqY0q0Zx6VD3++cwX5SS4Egg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2d43d64ilg"
+        },
+        {
+          "Name": "label",
+          "Value": "ZBlogApp.Web.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1v0wWoZxo112FXE3JQeQqY0q0Zx6VD3++cwX5SS4Egg="
+        }
+      ]
+    },
+    {
+      "Route": "ZBlogApp.Web.2d43d64ilg.bundle.scp.css",
+      "AssetFile": "D:\\Projects\\Git\\COMP4602_NET_Advanced_Web_App_Dev\\ZBlogApp\\ZBlogApp.Web\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\ZBlogApp.Web.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5792"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1v0wWoZxo112FXE3JQeQqY0q0Zx6VD3++cwX5SS4Egg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 18:59:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2d43d64ilg"
+        },
+        {
+          "Name": "label",
+          "Value": "ZBlogApp.Web.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1v0wWoZxo112FXE3JQeQqY0q0Zx6VD3++cwX5SS4Egg="
+        }
+      ]
+    },
+    {
+      "Route": "ZBlogApp.Web.2d43d64ilg.bundle.scp.css.gz",
+      "AssetFile": "D:\\Projects\\Git\\COMP4602_NET_Advanced_Web_App_Dev\\ZBlogApp\\ZBlogApp.Web\\obj\\Debug\\net9.0\\compressed\\81cif9cz6b-2d43d64ilg.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1739"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x5biAAxfh1N+9s5paKXixg+GkLXsUViVh1whXF+6zIY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 18:59:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2d43d64ilg"
+        },
+        {
+          "Name": "label",
+          "Value": "ZBlogApp.Web.bundle.scp.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-x5biAAxfh1N+9s5paKXixg+GkLXsUViVh1whXF+6zIY="
+        }
+      ]
+    },
+    {
+      "Route": "ZBlogApp.Web.2d43d64ilg.styles.css",
+      "AssetFile": "D:\\Projects\\Git\\COMP4602_NET_Advanced_Web_App_Dev\\ZBlogApp\\ZBlogApp.Web\\obj\\Debug\\net9.0\\compressed\\l0905igb9r-2d43d64ilg.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000574712644"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1739"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x5biAAxfh1N+9s5paKXixg+GkLXsUViVh1whXF+6zIY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 18:59:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"1v0wWoZxo112FXE3JQeQqY0q0Zx6VD3++cwX5SS4Egg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2d43d64ilg"
+        },
+        {
+          "Name": "label",
+          "Value": "ZBlogApp.Web.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1v0wWoZxo112FXE3JQeQqY0q0Zx6VD3++cwX5SS4Egg="
+        }
+      ]
+    },
+    {
+      "Route": "ZBlogApp.Web.2d43d64ilg.styles.css",
+      "AssetFile": "D:\\Projects\\Git\\COMP4602_NET_Advanced_Web_App_Dev\\ZBlogApp\\ZBlogApp.Web\\obj\\Debug\\net9.0\\scopedcss\\bundle\\ZBlogApp.Web.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5792"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1v0wWoZxo112FXE3JQeQqY0q0Zx6VD3++cwX5SS4Egg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 18:59:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2d43d64ilg"
+        },
+        {
+          "Name": "label",
+          "Value": "ZBlogApp.Web.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1v0wWoZxo112FXE3JQeQqY0q0Zx6VD3++cwX5SS4Egg="
+        }
+      ]
+    },
+    {
+      "Route": "ZBlogApp.Web.2d43d64ilg.styles.css.gz",
+      "AssetFile": "D:\\Projects\\Git\\COMP4602_NET_Advanced_Web_App_Dev\\ZBlogApp\\ZBlogApp.Web\\obj\\Debug\\net9.0\\compressed\\l0905igb9r-2d43d64ilg.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1739"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x5biAAxfh1N+9s5paKXixg+GkLXsUViVh1whXF+6zIY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 18:59:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2d43d64ilg"
+        },
+        {
+          "Name": "label",
+          "Value": "ZBlogApp.Web.styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-x5biAAxfh1N+9s5paKXixg+GkLXsUViVh1whXF+6zIY="
+        }
+      ]
+    },
+    {
+      "Route": "ZBlogApp.Web.bundle.scp.css",
+      "AssetFile": "D:\\Projects\\Git\\COMP4602_NET_Advanced_Web_App_Dev\\ZBlogApp\\ZBlogApp.Web\\obj\\Debug\\net9.0\\compressed\\81cif9cz6b-2d43d64ilg.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000574712644"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1739"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x5biAAxfh1N+9s5paKXixg+GkLXsUViVh1whXF+6zIY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 18:59:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"1v0wWoZxo112FXE3JQeQqY0q0Zx6VD3++cwX5SS4Egg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1v0wWoZxo112FXE3JQeQqY0q0Zx6VD3++cwX5SS4Egg="
+        }
+      ]
+    },
+    {
+      "Route": "ZBlogApp.Web.bundle.scp.css",
+      "AssetFile": "D:\\Projects\\Git\\COMP4602_NET_Advanced_Web_App_Dev\\ZBlogApp\\ZBlogApp.Web\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\ZBlogApp.Web.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5792"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1v0wWoZxo112FXE3JQeQqY0q0Zx6VD3++cwX5SS4Egg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 18:59:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1v0wWoZxo112FXE3JQeQqY0q0Zx6VD3++cwX5SS4Egg="
+        }
+      ]
+    },
+    {
+      "Route": "ZBlogApp.Web.bundle.scp.css.gz",
+      "AssetFile": "D:\\Projects\\Git\\COMP4602_NET_Advanced_Web_App_Dev\\ZBlogApp\\ZBlogApp.Web\\obj\\Debug\\net9.0\\compressed\\81cif9cz6b-2d43d64ilg.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1739"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x5biAAxfh1N+9s5paKXixg+GkLXsUViVh1whXF+6zIY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 18:59:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-x5biAAxfh1N+9s5paKXixg+GkLXsUViVh1whXF+6zIY="
+        }
+      ]
+    },
+    {
+      "Route": "ZBlogApp.Web.styles.css",
+      "AssetFile": "D:\\Projects\\Git\\COMP4602_NET_Advanced_Web_App_Dev\\ZBlogApp\\ZBlogApp.Web\\obj\\Debug\\net9.0\\compressed\\l0905igb9r-2d43d64ilg.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000574712644"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1739"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x5biAAxfh1N+9s5paKXixg+GkLXsUViVh1whXF+6zIY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 18:59:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"1v0wWoZxo112FXE3JQeQqY0q0Zx6VD3++cwX5SS4Egg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1v0wWoZxo112FXE3JQeQqY0q0Zx6VD3++cwX5SS4Egg="
+        }
+      ]
+    },
+    {
+      "Route": "ZBlogApp.Web.styles.css",
+      "AssetFile": "D:\\Projects\\Git\\COMP4602_NET_Advanced_Web_App_Dev\\ZBlogApp\\ZBlogApp.Web\\obj\\Debug\\net9.0\\scopedcss\\bundle\\ZBlogApp.Web.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5792"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1v0wWoZxo112FXE3JQeQqY0q0Zx6VD3++cwX5SS4Egg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 18:59:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1v0wWoZxo112FXE3JQeQqY0q0Zx6VD3++cwX5SS4Egg="
+        }
+      ]
+    },
+    {
+      "Route": "ZBlogApp.Web.styles.css.gz",
+      "AssetFile": "D:\\Projects\\Git\\COMP4602_NET_Advanced_Web_App_Dev\\ZBlogApp\\ZBlogApp.Web\\obj\\Debug\\net9.0\\compressed\\l0905igb9r-2d43d64ilg.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1739"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x5biAAxfh1N+9s5paKXixg+GkLXsUViVh1whXF+6zIY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 18:59:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-x5biAAxfh1N+9s5paKXixg+GkLXsUViVh1whXF+6zIY="
+        }
+      ]
+    }
+  ]
+}

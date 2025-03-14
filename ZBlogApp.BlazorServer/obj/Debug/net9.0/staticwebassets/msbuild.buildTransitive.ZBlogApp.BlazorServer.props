@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ZBlogApp.BlazorServer.props" />
+</Project>

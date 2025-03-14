@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <Sdk Name="Aspire.AppHost.Sdk" Version="9.0.0" />
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <IsAspireHost>true</IsAspireHost>
+    <UserSecretsId>b157f62e-40e0-4e45-a67e-a2c11bed466a</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ZBlogApp.ApiService\ZBlogApp.ApiService.csproj" />
+    <ProjectReference Include="..\ZBlogApp.BlazorServer\ZBlogApp.BlazorServer.csproj" />
+    <ProjectReference Include="..\ZBlogApp.Web\ZBlogApp.Web.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Aspire.Hosting.AppHost" Version="9.1.0" />
+    <PackageReference Include="Aspire.Hosting.SqlServer" Version="9.1.0" />
+  </ItemGroup>
+
+</Project>
